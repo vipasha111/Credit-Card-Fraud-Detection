@@ -1,10 +1,10 @@
-Credit Card Fraud Detection
+# Credit Card Fraud Detection
 
-Overview
+## Overview
 
 This project implements a Credit Card Fraud Detection system using Machine Learning. The model analyzes transaction data and classifies transactions as legitimate or fraudulent.
 
-Features
+## Features
 
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
@@ -12,18 +12,18 @@ Features
 - Logistic Regression model training
 - Fraud prediction and performance evaluation
 
-Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 
-Dataset
+## Dataset
 
 The dataset contains credit card transaction records labeled as legitimate (0) and fraudulent (1). Due to the highly imbalanced nature of the data, undersampling was applied before training the model.
 
-Workflow
+## Workflow
 
 1. Data Collection
 2. Data Preprocessing
@@ -33,10 +33,8 @@ Workflow
 6. Logistic Regression Model Training
 7. Model Evaluation using Accuracy Score
 
-Results
+## Results
 
 The model was evaluated on both training and test datasets using accuracy as the performance metric.
 
-Author
 
-Vipasha Sahu
